@@ -8,12 +8,12 @@
             <Label Text="身長を入力してください"
                 HorizontalOptions="CenterAndExpand" />
             <Entry x:Name="Height"
-                  Text="     "
+                  Text="170"
                     HorizontalOptions="CenterAndExpand" />
             <Label Text="体重を入力してください"
                     HorizontalOptions="CenterAndExpand" />
             <Entry x:Name="Weight"
-                  Text="    "
+                  Text="60"
                     HorizontalOptions="CenterAndExpand" />
             <Button Text="BMIを計算します"
                     HorizontalOptions="CenterAndExpand"
